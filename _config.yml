@@ -1,6 +1,8 @@
 name: Jeff
 favicon: null
 layout_spectrum: 0.33526666834950447
+typography_spectrum: 0.6941613268572837
+title: 'Jeff Harvey - photographer, creative, coffee lover'
 cta:
   domain: null
   bucket: null
@@ -23,4 +25,3 @@ purpose:
   - name: engagement
     item: null
     url: null
-typography_spectrum: 0.6941613268572837
